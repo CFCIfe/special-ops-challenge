@@ -23,13 +23,13 @@ A Node.Js code to scrape content of a webpage
 - [Axios](https://axios-http.com/)
 
 #### File Structure
-
+```
 .
 ├── package.json
 ├── package-lock.json
 ├── README.md
 └── web-scraper.js
-
+```
 ### Run the Code
 
 - Clone the git repository to your local environment
